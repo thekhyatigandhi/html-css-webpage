@@ -25,6 +25,10 @@ This is a simple website created using HTML and CSS codes.
 
 This website was developed using the following code, provided by Utoronto - https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/Develop/index.html
 
+Used Wave evaluation tool extension for valuation of the website.
+
+Used https://www.color-hex.com/ to check the color codes to match the webite.
+
 ## License
 
 The website uses the MIT license.
